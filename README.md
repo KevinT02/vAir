@@ -1,4 +1,3 @@
-<img src="https://github.com/KevinT02/AR-Construction/blob/main/logo.png" width="400" height="400">
 <img src="https://github.com/KevinT02/AR-Construction/blob/main/vAir2.png" width="400" height="400">
 
 # AR-Scene-for-Construction
