@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/UI Screens/TutorialSelect.unity
+    guid: cb4ffd7c73f84bf46a450676e3aa56c8
+  - enabled: 1
+    path: Assets/Scenes/UI Screens/TutorialVideo_1.unity
+    guid: f9ff76fcd03adb04dae377e4c4dfbc6a
+  - enabled: 1
+    path: Assets/Scenes/UI Screens/OnSiteOffSite.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/UI Screens/OnSite_Warning.unity
+    guid: 0919f823a5b7f2e4da590685b7bbeca7
+  - enabled: 1
+    path: Assets/Scenes/UI Screens/OffSite_Warning.unity
+    guid: 9b9d1fc0098bd05459d7300639e8b4e9
+  - enabled: 1
+    path: Assets/Scenes/UI Screens/French_TutorialSelect.unity
+    guid: 180c2f6484de0c04c88210e9eb683d93
+  - enabled: 1
+    path: Assets/Scenes/UI Screens/French_OnSiteOffSite.unity
+    guid: a659a0d164d817c4daed2cbfafd14872
+  - enabled: 1
+    path: Assets/Scenes/UI Screens/MainScreen.unity
+    guid: 3167024dacc1912489f483e7090a6546
+  - enabled: 1
+    path: Assets/Scenes/UI Screens/setting.unity
+    guid: eb0c81ff0d7b2a0449349bf044fe5aef
+  - enabled: 1
+    path: Assets/Scenes/UI Screens/TutorialVideo_2.unity
+    guid: 9a5ce02e2baec0b45af69069553cdc2f
+  - enabled: 1
+    path: Assets/Scenes/UI Screens/French_Onsite_Warning.unity
+    guid: 629d3ae56573ea1409199458deb60646
+  - enabled: 1
+    path: Assets/Scenes/UI Screens/French_MainScene.unity
+    guid: d65477d63566db14a8de07251063b533
+  - enabled: 1
+    path: Assets/Scenes/UI Screens/French_OffSite_Warning.unity
+    guid: 1c7a0d61bc0a76d47ab367a26121acf7
+  - enabled: 1
+    path: Assets/Scenes/UI Screens/French_TutorialVideo1.unity
+    guid: 872da17c614317d499061064aec23c38
+  - enabled: 1
+    path: Assets/Scenes/UI Screens/French_TutorialVideo2.unity
+    guid: b914e6e307d42c24981f318e82ddcd5b
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 26ac272e08cd0e742a992411458bb24f,
+      type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: b023c47d54370a34196d90f00598f323,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 66ef49c1bd5951b4b8cfa7f61471fabc,
+      type: 2}
