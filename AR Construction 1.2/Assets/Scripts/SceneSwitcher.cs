@@ -11,7 +11,7 @@ public class SceneSwitcher : MonoBehaviour
     }
     public void TutorialSelect()
     {
-        SceneManager.LoadScene(0);
+        SceneManager.LoadScene(17);
     }
     public void OnSiteOffSite()
     {
@@ -68,5 +68,9 @@ public class SceneSwitcher : MonoBehaviour
     public void FrenchSettings()
     {
         SceneManager.LoadScene(15);
+    }
+    public void ThreeDScreen()
+    {
+        SceneManager.LoadScene(16);
     }
 }

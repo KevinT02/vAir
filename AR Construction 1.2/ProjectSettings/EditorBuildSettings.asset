@@ -6,8 +6,8 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/UI Screens/TutorialSelect.unity
-    guid: cb4ffd7c73f84bf46a450676e3aa56c8
+    path: Assets/Scenes/UI Screens/LanguageSelect.unity
+    guid: 1c487c4830e9b394da82c334ec517d1b
   - enabled: 1
     path: Assets/Scenes/UI Screens/TutorialVideo_1.unity
     guid: f9ff76fcd03adb04dae377e4c4dfbc6a
@@ -51,8 +51,14 @@ EditorBuildSettings:
     path: Assets/Scenes/UI Screens/French_TutorialVideo2.unity
     guid: b914e6e307d42c24981f318e82ddcd5b
   - enabled: 1
+    path: Assets/Scenes/UI Screens/French_Setting.unity
+    guid: 37c7c2a32523c0940935f01e9ebc9a9e
+  - enabled: 1
     path: Assets/Scenes/AR Scenes/3DScreen.unity
     guid: a287ac7ef84c0104fa0ee67167dada9a
+  - enabled: 1
+    path: Assets/Scenes/UI Screens/TutorialSelect.unity
+    guid: cb4ffd7c73f84bf46a450676e3aa56c8
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 26ac272e08cd0e742a992411458bb24f,
       type: 2}
