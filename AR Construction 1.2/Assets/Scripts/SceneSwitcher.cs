@@ -73,4 +73,8 @@ public class SceneSwitcher : MonoBehaviour
     {
         SceneManager.LoadScene(16);
     }
+    public void GazeScene()
+    {
+        SceneManager.LoadScene(18);
+    }
 }

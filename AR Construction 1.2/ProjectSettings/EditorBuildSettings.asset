@@ -59,6 +59,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/UI Screens/TutorialSelect.unity
     guid: cb4ffd7c73f84bf46a450676e3aa56c8
+  - enabled: 1
+    path: Assets/Scenes/AR Scenes/3DGazeInteractionScene.unity
+    guid: 0886119953dfcc3498e20763862c9ac5
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 26ac272e08cd0e742a992411458bb24f,
       type: 2}
