@@ -32,7 +32,7 @@ public class ButtonChanger : MonoBehaviour
         else
         {
             MyImage.GetComponent<Image>().color = new Color32(255, 255, 255, 255);
-            MyImage2.GetComponent<Image>().color = new Color32(255, 255, 255, 255);
+            MyImage2.GetComponent<Image>().color = new Color32(0, 0, 0, 255);
         }
 
 

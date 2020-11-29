@@ -77,4 +77,8 @@ public class SceneSwitcher : MonoBehaviour
     {
         SceneManager.LoadScene(18);
     }
+    public void MeasureScene()
+    {
+        SceneManager.LoadScene(19);
+    }
 }
