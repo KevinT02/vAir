@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/AR Scenes/GazeInteract.unity
+- path: Assets/Scenes/AR Scenes/3DGazeInteractionScene.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
