@@ -7,19 +7,8 @@ Application made with Unity that allows users in the construction industry to di
 
 
 <img src="https://github.com/KevinT02/vAir/blob/main/App%20Images/screen1.png">
-
-[<img src="https://github.com/KevinT02/vAir/blob/main/App%20Images/screen2.png" width="400" height="400">](https://youtu.be/uLLSkXLv6B8)
-
-
-[<img src="https://github.com/KevinT02/vAir/blob/main/App%20Images/screen3.png" width="400" height="400">](https://youtu.be/uLLSkXLv6B8)
-
-
-[<img src="https://github.com/KevinT02/vAir/blob/main/App%20Images/screen4.png" width="400" height="400">](https://youtu.be/uLLSkXLv6B8)
-
-
-[<img src="https://github.com/KevinT02/vAir/blob/main/App%20Images/screen5.png" width="400" height="400">](https://youtu.be/uLLSkXLv6B8)
-
-[<img src="https://github.com/KevinT02/vAir/blob/main/App%20Images/screen6.png" width="400" height="400">](https://youtu.be/uLLSkXLv6B8)
-
-
-
+<img src="https://github.com/KevinT02/vAir/blob/main/App%20Images/screen2.png">
+<img src="https://github.com/KevinT02/vAir/blob/main/App%20Images/screen3.png">
+<img src="https://github.com/KevinT02/vAir/blob/main/App%20Images/screen4.png">
+<img src="https://github.com/KevinT02/vAir/blob/main/App%20Images/screen5.png">
+<img src="https://github.com/KevinT02/vAir/blob/main/App%20Images/screen6.png">
