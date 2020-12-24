@@ -9,21 +9,26 @@ Application made with Unity that allows users in the construction industry to di
 <table>
   <tr>
     <td>First Screen Page</td>
-     <td>Holiday Mention</td>
-     <td>Present day in purple and selected day in pink</td>
+    <td>First Screen Page</td>
+    <td>First Screen Page</td>
   </tr>
   <tr>
     <td><img src="https://github.com/KevinT02/vAir/blob/main/App%20Images/screen1.png"></td>
-    <td><img src="https://github.com/KevinT02/vAir/blob/main/App%20Images/screen1.png" ></td>
-    <td><img src="https://github.com/KevinT02/vAir/blob/main/App%20Images/screen1.png" ></td>
-    <td><img src="https://github.com/KevinT02/vAir/blob/main/App%20Images/screen1.png" ></td>
-    <td><img src="https://github.com/KevinT02/vAir/blob/main/App%20Images/screen1.png" ></td>
+    <td><img src="https://github.com/KevinT02/vAir/blob/main/App%20Images/screen2.png" ></td>
+    <td><img src="https://github.com/KevinT02/vAir/blob/main/App%20Images/screen3.png" ></td>
+  </tr>
+ </table>
+ 
+ <table>
+  <tr>
+    <td>First Screen Page</td>
+    <td>First Screen Page</td>
+    <td>First Screen Page</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/KevinT02/vAir/blob/main/App%20Images/screen4.png"></td>
+    <td><img src="https://github.com/KevinT02/vAir/blob/main/App%20Images/screen5.png" ></td>
+    <td><img src="https://github.com/KevinT02/vAir/blob/main/App%20Images/screen6.png" ></td>
   </tr>
  </table>
 
-<img src="https://github.com/KevinT02/vAir/blob/main/App%20Images/screen1.png">
-<img src="https://github.com/KevinT02/vAir/blob/main/App%20Images/screen2.png">
-<img src="https://github.com/KevinT02/vAir/blob/main/App%20Images/screen3.png">
-<img src="https://github.com/KevinT02/vAir/blob/main/App%20Images/screen4.png">
-<img src="https://github.com/KevinT02/vAir/blob/main/App%20Images/screen5.png">
-<img src="https://github.com/KevinT02/vAir/blob/main/App%20Images/screen6.png">
