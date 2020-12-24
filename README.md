@@ -5,8 +5,8 @@
  
 Application made with Unity that allows users in the construction industry to display their 3D models realtime into their current environment through the use of augmented reality. Taking the information from the 3D model, the application will be able to display different layers of the model and other data, giving the user a plethora of perspectives of the model and aid in the conceptualization of the final product. 
 
-[<img src="https://github.com/KevinT02/vAir/blob/main/App%20Images/screen1.png" width="400" height="400">](https://youtu.be/uLLSkXLv6B8)
 
+<img src="https://github.com/KevinT02/vAir/blob/main/App%20Images/screen1.png">
 
 [<img src="https://github.com/KevinT02/vAir/blob/main/App%20Images/screen2.png" width="400" height="400">](https://youtu.be/uLLSkXLv6B8)
 
