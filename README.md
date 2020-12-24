@@ -8,9 +8,9 @@ Application made with Unity that allows users in the construction industry to di
 
 <table>
   <tr>
-    <td>First Screen Page</td>
-    <td>First Screen Page</td>
-    <td>First Screen Page</td>
+     <td>Main Screen</td>
+     <td>3D Model Screen (Rotation Tool)</td>
+     <td>3D Model Screen (Layer Control)</td>
   </tr>
   <tr>
     <td><img src="https://github.com/KevinT02/vAir/blob/main/App%20Images/screen1.png"></td>
@@ -21,9 +21,9 @@ Application made with Unity that allows users in the construction industry to di
  
  <table>
   <tr>
-    <td>First Screen Page</td>
-    <td>First Screen Page</td>
-    <td>First Screen Page</td>
+     <td>AR Screen (Gaze Interaction)</td>
+     <td>AR Screen (Layer Control)</td>
+     <td>Measurement Tool</td>
   </tr>
   <tr>
     <td><img src="https://github.com/KevinT02/vAir/blob/main/App%20Images/screen4.png"></td>
