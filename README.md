@@ -1,5 +1,6 @@
-[<img src="https://github.com/KevinT02/vAir/blob/main/AR%20Construction%201.2/Assets/Images/_ntitled-2.png" width="400" height="400">](https://youtu.be/uLLSkXLv6B8)
-
+<p align="center">
+  <img src="https://github.com/KevinT02/vAir/blob/main/AR%20Construction%201.2/Assets/Images/_ntitled-2.png" width="400" height="400">](https://youtu.be/uLLSkXLv6B8)
+</p>
 **^ Click the image above to view the video ^**
 
 
